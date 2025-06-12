@@ -1,0 +1,130 @@
+[
+{
+    "filename":"wave_imgs/p1.png",
+    "label":{
+        "quality":2,
+        "size":3,
+        "wind_dir":-1
+    }
+},
+{
+    "filename":"wave_imgs/p2.png",
+    "label":{
+        "quality":4,
+        "size":3,
+        "wind_dir":0
+    }
+},
+{
+    "filename":"wave_imgs/p3.png",
+    "label":{
+        "quality":4,
+        "size":1,
+        "wind_dir":0
+    }
+},
+{
+    "filename":"wave_imgs/p4.png",
+    "label":{
+        "quality":3,
+        "size":2,
+        "wind_dir":-1
+    }
+},
+{
+    "filename":"wave_imgs/p5.png",
+    "label":{
+        "quality":6,
+        "size":5,
+        "wind_dir":0
+    }
+},
+{
+    "filename":"wave_imgs/p6.png",
+    "label":{
+        "quality":6,
+        "size":5,
+        "wind_dir":0
+    }
+},
+{
+    "filename":"wave_imgs/p7.png",
+    "label":{
+        "quality":6,
+        "size":5,
+        "wind_dir":0
+    }
+},
+{
+    "filename":"wave_imgs/p8.png",
+    "label":{
+        "quality":6,
+        "size":6,
+        "wind_dir":0
+    }
+},
+{
+    "filename":"wave_imgs/p9.png",
+    "label":{
+        "quality":9,
+        "size":6,
+        "wind_dir":1
+    }
+},
+{
+    "filename":"wave_imgs/p10.png",
+    "label":{
+        "quality":8,
+        "size":5,
+        "wind_dir":1
+    }
+},
+{
+    "filename":"wave_imgs/p11.png",
+    "label":{
+        "quality":8,
+        "size":5,
+        "wind_dir":1
+    }
+},
+{
+    "filename":"wave_imgs/p12.png",
+    "label":{
+        "quality":4,
+        "size":1,
+        "wind_dir":1
+    }
+},
+{
+    "filename":"wave_imgs/p13.png",
+    "label":{
+        "quality":3,
+        "size":6,
+        "wind_dir":-1
+    }
+},
+{
+    "filename":"wave_imgs/p14.png",
+    "label":{
+        "quality":6,
+        "size":4,
+        "wind_dir":0
+    }
+},
+{
+    "filename":"wave_imgs/p15.png",
+    "label":{
+        "quality":7,
+        "size":5,
+        "wind_dir":1
+    }
+},
+{
+    "filename":"wave_imgs/p16.png",
+    "label":{
+        "quality":5,
+        "size":2,
+        "wind_dir":0
+    }
+}
+] 

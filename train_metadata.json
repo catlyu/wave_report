@@ -1,0 +1,1154 @@
+[
+  {
+    "filename": "train_imgs/pacific_blvd_1.png",
+    "location": "pacific_blvd",
+    "label": {
+      "quality": 1,
+      "size": 1,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/pacific_blvd_2.png",
+    "location": "pacific_blvd",
+    "label": {
+      "quality": 2,
+      "size": 1,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/pacific_blvd_3.png",
+    "location": "pacific_blvd",
+    "label": {
+      "quality": 2,
+      "size": 1,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/pacific_blvd_4.png",
+    "location": "pacific_blvd",
+    "label": {
+      "quality": 1,
+      "size": 1,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/pacific_blvd_5.png",
+    "location": "pacific_blvd",
+    "label": {
+      "quality": 1,
+      "size": 1,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/berawa_beach_1.png",
+    "location": "berawa_beach",
+    "label": {
+      "quality": 5,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/berawa_beach_2.png",
+    "location": "berawa_beach",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/berawa_beach_3.png",
+    "location": "berawa_beach",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/berawa_beach_4.png",
+    "location": "berawa_beach",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/berawa_beach_5.png",
+    "location": "berawa_beach",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": -1
+    }
+  },
+  {
+    "filename": "train_imgs/berawa_beach_6.png",
+    "location": "berawa_beach",
+    "label": {
+      "quality": 4,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/berawa_beach_7.png",
+    "location": "berawa_beach",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/berawa_beach_8.png",
+    "location": "berawa_beach",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/berawa_beach_9.png",
+    "location": "berawa_beach",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/berawa_beach_10.png",
+    "location": "berawa_beach",
+    "label": {
+      "quality": 5,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/el_porto_1.png",
+    "location": "el_porto",
+    "label": {
+      "quality": 4,
+      "size": 2,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/el_porto_2.png",
+    "location": "el_porto",
+    "label": {
+      "quality": 4,
+      "size": 2,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/el_porto_3.png",
+    "location": "el_porto",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/el_porto_4.png",
+    "location": "el_porto",
+    "label": {
+      "quality": 4,
+      "size": 2,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/el_porto_5.png",
+    "location": "el_porto",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/el_porto_6.png",
+    "location": "el_porto",
+    "label": {
+      "quality": 4,
+      "size": 2,
+      "wind_dir": -1
+    }
+  },
+  {
+    "filename": "train_imgs/el_porto_7.png",
+    "location": "el_porto",
+    "label": {
+      "quality": 4,
+      "size": 2,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/el_porto_8.png",
+    "location": "el_porto",
+    "label": {
+      "quality": 5,
+      "size": 2,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/el_porto_9.png",
+    "location": "el_porto",
+    "label": {
+      "quality": 4,
+      "size": 2,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/el_porto_10.png",
+    "location": "el_porto",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/k38_1.png",
+    "location": "k38",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/k38_2.png",
+    "location": "k38",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/k38_3.png",
+    "location": "k38",
+    "label": {
+      "quality": 7,
+      "size": 5,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/k38_4.png",
+    "location": "k38",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/k38_5.png",
+    "location": "k38",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/k38_6.png",
+    "location": "k38",
+    "label": {
+      "quality": 5,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/k38_7.png",
+    "location": "k38",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": -1
+    }
+  },
+  {
+    "filename": "train_imgs/k38_8.png",
+    "location": "k38",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/k38_9.png",
+    "location": "k38",
+    "label": {
+      "quality": 6,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/k38_10.png",
+    "location": "k38",
+    "label": {
+      "quality": 6,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/playa_grande_1.png",
+    "location": "playa_grande",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/playa_grande_2.png",
+    "location": "playa_grande",
+    "label": {
+      "quality": 7,
+      "size": 5,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/playa_grande_3.png",
+    "location": "playa_grande",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/playa_grande_4.png",
+    "location": "playa_grande",
+    "label": {
+      "quality": 8,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/playa_grande_5.png",
+    "location": "playa_grande",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/playa_grande_6.png",
+    "location": "playa_grande",
+    "label": {
+      "quality": 4,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/playa_grande_7.png",
+    "location": "playa_grande",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/playa_grande_8.png",
+    "location": "playa_grande",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/playa_grande_9.png",
+    "location": "playa_grande",
+    "label": {
+      "quality": 5,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/playa_grande_10.png",
+    "location": "playa_grande",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/santa_teresa_1.png",
+    "location": "santa_teresa",
+    "label": {
+      "quality": 8,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/santa_teresa_2.png",
+    "location": "santa_teresa",
+    "label": {
+      "quality": 8,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/santa_teresa_3.png",
+    "location": "santa_teresa",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/santa_teresa_4.png",
+    "location": "santa_teresa",
+    "label": {
+      "quality": 8,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/santa_teresa_5.png",
+    "location": "santa_teresa",
+    "label": {
+      "quality": 8,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/santa_teresa_6.png",
+    "location": "santa_teresa",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/santa_teresa_7.png",
+    "location": "santa_teresa",
+    "label": {
+      "quality": 7,
+      "size": 5,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/santa_teresa_8.png",
+    "location": "santa_teresa",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/santa_teresa_9.png",
+    "location": "santa_teresa",
+    "label": {
+      "quality": 8,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/santa_teresa_10.png",
+    "location": "santa_teresa",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/tamarindo_1.png",
+    "location": "tamarindo",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/tamarindo_2.png",
+    "location": "tamarindo",
+    "label": {
+      "quality": 5,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/tamarindo_3.png",
+    "location": "tamarindo",
+    "label": {
+      "quality": 3,
+      "size": 2,
+      "wind_dir": -1
+    }
+  },
+  {
+    "filename": "train_imgs/tamarindo_4.png",
+    "location": "tamarindo",
+    "label": {
+      "quality": 4,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/tamarindo_5.png",
+    "location": "tamarindo",
+    "label": {
+      "quality": 5,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/tamarindo_6.png",
+    "location": "tamarindo",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/tamarindo_7.png",
+    "location": "tamarindo",
+    "label": {
+      "quality": 3,
+      "size": 2,
+      "wind_dir": -1
+    }
+  },
+  {
+    "filename": "train_imgs/tamarindo_8.png",
+    "location": "tamarindo",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/tamarindo_9.png",
+    "location": "tamarindo",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/tamarindo_10.png",
+    "location": "tamarindo",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/uluwatu_1.png",
+    "location": "uluwatu",
+    "label": {
+      "quality": 8,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/uluwatu_2.png",
+    "location": "uluwatu",
+    "label": {
+      "quality": 9,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/uluwatu_3.png",
+    "location": "uluwatu",
+    "label": {
+      "quality": 8,
+      "size": 7,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/uluwatu_4.png",
+    "location": "uluwatu",
+    "label": {
+      "quality": 8,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/uluwatu_5.png",
+    "location": "uluwatu",
+    "label": {
+      "quality": 9,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/uluwatu_6.png",
+    "location": "uluwatu",
+    "label": {
+      "quality": 8,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/uluwatu_7.png",
+    "location": "uluwatu",
+    "label": {
+      "quality": 8,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/uluwatu_8.png",
+    "location": "uluwatu",
+    "label": {
+      "quality": 7,
+      "size": 5,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/uluwatu_9.png",
+    "location": "uluwatu",
+    "label": {
+      "quality": 9,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/uluwatu_10.png",
+    "location": "uluwatu",
+    "label": {
+      "quality": 8,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/waikiki_1.png",
+    "location": "waikiki",
+    "label": {
+      "quality": 5,
+      "size": 2,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/waikiki_2.png",
+    "location": "waikiki",
+    "label": {
+      "quality": 5,
+      "size": 2,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/waikiki_3.png",
+    "location": "waikiki",
+    "label": {
+      "quality": 4,
+      "size": 2,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/waikiki_4.png",
+    "location": "waikiki",
+    "label": {
+      "quality": 5,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/waikiki_5.png",
+    "location": "waikiki",
+    "label": {
+      "quality": 4,
+      "size": 2,
+      "wind_dir": -1
+    }
+  },
+  {
+    "filename": "train_imgs/waikiki_6.png",
+    "location": "waikiki",
+    "label": {
+      "quality": 4,
+      "size": 2,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/waikiki_7.png",
+    "location": "waikiki",
+    "label": {
+      "quality": 5,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/waikiki_8.png",
+    "location": "waikiki",
+    "label": {
+      "quality": 4,
+      "size": 2,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/waikiki_9.png",
+    "location": "waikiki",
+    "label": {
+      "quality": 4,
+      "size": 2,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/waikiki_10.png",
+    "location": "waikiki",
+    "label": {
+      "quality": 5,
+      "size": 2,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/la_zurriola_1.png",
+    "location": "la_zurriola",
+    "label": {
+      "quality": 5,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/la_zurriola_2.png",
+    "location": "la_zurriola",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": -1
+    }
+  },
+  {
+    "filename": "train_imgs/la_zurriola_3.png",
+    "location": "la_zurriola",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/la_zurriola_4.png",
+    "location": "la_zurriola",
+    "label": {
+      "quality": 4,
+      "size": 2,
+      "wind_dir": -1
+    }
+  },
+  {
+    "filename": "train_imgs/la_zurriola_5.png",
+    "location": "la_zurriola",
+    "label": {
+      "quality": 5,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/la_zurriola_6.png",
+    "location": "la_zurriola",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/la_zurriola_7.png",
+    "location": "la_zurriola",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": -1
+    }
+  },
+  {
+    "filename": "train_imgs/la_zurriola_8.png",
+    "location": "la_zurriola",
+    "label": {
+      "quality": 5,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/ribeira_d_ilhas_1.png",
+    "location": "ribeira_d_ilhas",
+    "label": {
+      "quality": 7,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/ribeira_d_ilhas_2.png",
+    "location": "ribeira_d_ilhas",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/ribeira_d_ilhas_3.png",
+    "location": "ribeira_d_ilhas",
+    "label": {
+      "quality": 8,
+      "size": 5,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/ribeira_d_ilhas_4.png",
+    "location": "ribeira_d_ilhas",
+    "label": {
+      "quality": 6,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/ribeira_d_ilhas_5.png",
+    "location": "ribeira_d_ilhas",
+    "label": {
+      "quality": 7,
+      "size": 5,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/ribeira_d_ilhas_6.png",
+    "location": "ribeira_d_ilhas",
+    "label": {
+      "quality": 5,
+      "size": 3,
+      "wind_dir": -1
+    }
+  },
+  {
+    "filename": "train_imgs/ribeira_d_ilhas_7.png",
+    "location": "ribeira_d_ilhas",
+    "label": {
+      "quality": 7,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/ribeira_d_ilhas_8.png",
+    "location": "ribeira_d_ilhas",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/ribeira_d_ilhas_9.png",
+    "location": "ribeira_d_ilhas",
+    "label": {
+      "quality": 8,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/ribeira_d_ilhas_10.png",
+    "location": "ribeira_d_ilhas",
+    "label": {
+      "quality": 7,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/mundaka_1.png",
+    "location": "mundaka",
+    "label": {
+      "quality": 8,
+      "size": 5,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/mundaka_2.png",
+    "location": "mundaka",
+    "label": {
+      "quality": 7,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/mundaka_3.png",
+    "location": "mundaka",
+    "label": {
+      "quality": 8,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/mundaka_4.png",
+    "location": "mundaka",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/mundaka_5.png",
+    "location": "mundaka",
+    "label": {
+      "quality": 7,
+      "size": 5,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/mundaka_6.png",
+    "location": "mundaka",
+    "label": {
+      "quality": 8,
+      "size": 5,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/mundaka_7.png",
+    "location": "mundaka",
+    "label": {
+      "quality": 6,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/mundaka_8.png",
+    "location": "mundaka",
+    "label": {
+      "quality": 7,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/mundaka_9.png",
+    "location": "mundaka",
+    "label": {
+      "quality": 8,
+      "size": 6,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/mundaka_10.png",
+    "location": "mundaka",
+    "label": {
+      "quality": 7,
+      "size": 5,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/praia_azul_1.png",
+    "location": "praia_azul",
+    "label": {
+      "quality": 5,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/praia_azul_2.png",
+    "location": "praia_azul",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/praia_azul_3.png",
+    "location": "praia_azul",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": -1
+    }
+  },
+  {
+    "filename": "train_imgs/praia_azul_4.png",
+    "location": "praia_azul",
+    "label": {
+      "quality": 5,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/praia_azul_5.png",
+    "location": "praia_azul",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/praia_azul_6.png",
+    "location": "praia_azul",
+    "label": {
+      "quality": 4,
+      "size": 2,
+      "wind_dir": -1
+    }
+  },
+  {
+    "filename": "train_imgs/praia_azul_7.png",
+    "location": "praia_azul",
+    "label": {
+      "quality": 5,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/praia_azul_8.png",
+    "location": "praia_azul",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/praia_azul_9.png",
+    "location": "praia_azul",
+    "label": {
+      "quality": 5,
+      "size": 3,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/praia_azul_10.png",
+    "location": "praia_azul",
+    "label": {
+      "quality": 6,
+      "size": 4,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/praia_grande_1.png",
+    "location": "praia_grande",
+    "label": {
+      "quality": 5,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/praia_grande_2.png",
+    "location": "praia_grande",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": -1
+    }
+  },
+  {
+    "filename": "train_imgs/praia_grande_3.png",
+    "location": "praia_grande",
+    "label": {
+      "quality": 6,
+      "size": 5,
+      "wind_dir": 1
+    }
+  },
+  {
+    "filename": "train_imgs/praia_grande_4.png",
+    "location": "praia_grande",
+    "label": {
+      "quality": 5,
+      "size": 4,
+      "wind_dir": 0
+    }
+  },
+  {
+    "filename": "train_imgs/praia_grande_5.png",
+    "location": "praia_grande",
+    "label": {
+      "quality": 4,
+      "size": 3,
+      "wind_dir": -1
+    }
+  }
+]
